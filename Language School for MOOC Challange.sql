@@ -1,15 +1,6 @@
 /*	Project: Language School for MOOC Intro to Data Challange
 	Author: Wiktoria Strzelec (individual project)
-    Challenge: Choose Your Own Path
-    
-    Description: The project contains a database of a language school for the MOOC Intro to Data Challange, which was inspired by my journey in learning foreign languages 
-    (did you know that learning German is 10x harder than learning SQL? I swear it is). Therefore I came up with an idea to see how a database of the language school 
-    would look like, which is both a business idea and a personal interest topic. I have decided to place it in Poland - so beware of the Polish names and surnames! 
-    
-    Context: After four months of hard work, all English students got results of their last, 5th test, as well as their final grade. The system calculated if they can 
-    participate in the certification process - but it appears that not all of them are ready for this step... Take a look at their progress during this semester and see if you
-    can spot these individuals who will have to put up in extra work during the last month or check how English students did as groups. Okay, yes, you can peek into the finances -
-    just remember they are in zlotych (PLN)! 
+    	Challenge: Choose Your Own Path
     
     The database contains:
     - four main tables: languages, classes, students and teachers,
